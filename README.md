@@ -1,7 +1,4 @@
 TIC-TAC-TOE-GAME
- <div>
-    <img align="center" alt="Coding" heigh="50" width="50%" src="![Screenshot (1502)](https://user-images.githubusercontent.com/101566228/177344428-f6c6d67c-191e-4325-9567-b0e1ce775f9a.png)" style="max-width: 100%>
-</div>
 
 OBJECTIVE:
 This project for EE-551 aims to develop a Tic Tac Toe game using JAVASCRIPT. It mainly consists of developing and implementing a computer program that plays Tic Tac Toe against another player.
