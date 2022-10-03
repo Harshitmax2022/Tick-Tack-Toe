@@ -36,4 +36,5 @@ Then Player 1 will make his/her move by playing mark “X” on this board. Then
 
 Then the program will check if Player 1 with “X” wins or Player 2 with “O” wins and that scenario will be follows: (could be vertically, horizontally or diagonally).
 
-Once the game is finished, the message will be displayed on the game screen with either the winner name (X or O) or Draw game.
+Once the game is finished, the message will be displayed on the game screen with either the winner name (X or O) or Draw game.  
+ 
